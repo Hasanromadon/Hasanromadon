@@ -19,7 +19,7 @@
 ## What I work in
 
 ```
-Ventures & Prod   → Founder @ asesme.com — driving product strategy, engineering efficiency & profitability
+Ventures & Prod   → Founder @ asesme.com — driving product strategy, customer success, engineering efficiency & profitability
 Banking & FinTech  → Corporate Cash Management System (CMS), Open API / Financial Standards
 Middleware & ESB   → IBM ACE (App Connect Enterprise), IBM MQ, Axway API Gateway
 Quality & Delivery → Agile / Scrum, CI/CD automated pipelines, SonarQube quality gates
