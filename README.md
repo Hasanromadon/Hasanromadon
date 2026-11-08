@@ -3,7 +3,7 @@
   # Hasan Romadon
 
   <a href="https://asesme.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Founder+@+asesme.com+%C2%B7+Senior+Software+Engineer;Banking+Systems+%C2%B7+Cash+Management+System+(CMS);IBM+ACE+%C2%B7+IBM+MQ+%C2%B7+Axway+API+Gateway+(Open+API);AI-Driven+Dev+%C2%B7+MCP+Tooling+%C2%B7+Cost+Optimization;Database+Architecture+%C2%B7+Scalable+Middleware" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Founder+@+asesme.com+%C2%B7+Senior+Software+Engineer;Banking+Systems+%C2%B7+Cash+Management+System+(CMS);IBM+ACE+%C2%B7+IBM+MQ+%C2%B7+Axway+API+Gateway+(Open+API);AI-Driven+Dev+%C2%B7+MCP+Tooling+%C2%B7+Cost+Optimization;Scrum+%C2%B7+Enterprise+CI%2FCD+%C2%B7+SonarQube+Quality+Gates" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -22,11 +22,12 @@
 Ventures & Prod   → Founder @ asesme.com
 Banking & FinTech  → Corporate Cash Management System (CMS), Open API / Financial Standards
 Middleware & ESB   → IBM ACE (App Connect Enterprise), IBM MQ, Axway API Gateway
+Quality & Delivery → Agile / Scrum, CI/CD automated pipelines, SonarQube quality gates
 AI & Productivity  → AI-driven development, MCP (Model Context Protocol), Cursor, Claude Code
 Cost Optimization  → Cloud & DB FinOps, resource utilization efficiency, right-sizing
 Databases & Store  → PostgreSQL, IBM DB2, Redis, Firestore (indexing, query & schema tuning)
 Full-Stack Core    → Go, TypeScript, Next.js, React, Node.js, Python
-Enterprise Infra   → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux, CI/CD
+Enterprise Infra   → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux
 ```
 
 <br/>
@@ -37,7 +38,7 @@ Enterprise Infra   → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux, CI/
 
 ![Languages & Frameworks](https://skillicons.dev/icons?i=go,ts,js,react,nextjs,nodejs,py,tailwind,html,css&perline=10)
 
-![Data & Infrastructure](https://skillicons.dev/icons?i=postgres,redis,firebase,kubernetes,docker,redhat,linux,git,github,postman&perline=10)
+![Data & Infrastructure](https://skillicons.dev/icons?i=postgres,redis,firebase,kubernetes,docker,redhat,linux,git,github,githubactions&perline=10)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Founder-asesme.com-000000?style=flat-square&logo=vercel&logoColor=white" alt="Founder asesme.com" />
@@ -50,6 +51,8 @@ Enterprise Infra   → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux, CI/
   <img src="https://img.shields.io/badge/Red%20Hat%20OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
   <img src="https://img.shields.io/badge/IBM%20DB2-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM DB2" />
+  <img src="https://img.shields.io/badge/SonarQube-Quality_Gates-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Agile-Scrum-009ECE?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
   <img src="https://img.shields.io/badge/Database_%26_Infra-Cost_Optimization-238636?style=flat-square&logo=speedtest&logoColor=white" alt="Cost Optimization" />
 </p>
 
@@ -65,5 +68,5 @@ Enterprise Infra   → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux, CI/
 <br/>
 
 <div align="center">
-  <sub>Founder @ asesme.com · Senior Software Engineer · Banking Middleware · AI-Accelerated & Cost-Optimized Systems</sub>
+  <sub>Founder @ asesme.com · Senior Software Engineer · Banking Middleware · Agile & CI/CD · Cost-Optimized Architectures</sub>
 </div>
