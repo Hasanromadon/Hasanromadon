@@ -32,6 +32,12 @@ Enterprise Infra   → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux
 
 <br/>
 
+## 🚀 Featured Open Source
+
+> **[openapi-mcp-gateway](https://github.com/Hasanromadon/openapi-mcp-gateway)** — Enterprise OpenAPI v3 & Swagger to Model Context Protocol (MCP) Gateway. Converts REST APIs into AI Agent Tools with automated BI-SNAP (Open Banking) HMAC-SHA512 security, FinOps token trimming, and Glama Inspector support.
+
+<br/>
+
 ## Tech Stack & Tools
 
 <div align="center">
