@@ -3,7 +3,7 @@
   # Hasan Romadon
 
   <a href="https://asesme.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Founder+@+asesme.com+%C2%B7+Senior+Software+Engineer;Banking+Systems+%C2%B7+Cash+Management+System+(CMS);IBM+ACE+%C2%B7+IBM+MQ+%C2%B7+Axway+API+Gateway+(Open+API);Go+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Enterprise+Architecture;Red+Hat+OpenShift+%C2%B7+High-Throughput+Financial+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Founder+@+asesme.com+%C2%B7+Senior+Software+Engineer;Banking+Systems+%C2%B7+Cash+Management+System+(CMS);IBM+ACE+%C2%B7+IBM+MQ+%C2%B7+Axway+API+Gateway+(Open+API);AI-Driven+Dev+%C2%B7+MCP+Tooling+%C2%B7+Cost+Optimization;Database+Architecture+%C2%B7+Scalable+Middleware" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -19,13 +19,14 @@
 ## What I work in
 
 ```
-Ventures & Prod  → Founder @ asesme.com
-Banking & FinTech → Corporate Cash Management System (CMS), Open API / Financial Standards
-Middleware & ESB  → IBM ACE (App Connect Enterprise), IBM MQ, Axway API Gateway
-API Architecture  → Open API, Microservices, Enterprise Service Bus, Secure Gateways
-Full-Stack        → Go, TypeScript, Next.js, React, Node.js, Python
-Enterprise Infra  → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux, CI/CD
-Databases & Store → PostgreSQL, IBM DB2, Redis, Firebase / Firestore
+Ventures & Prod   → Founder @ asesme.com
+Banking & FinTech  → Corporate Cash Management System (CMS), Open API / Financial Standards
+Middleware & ESB   → IBM ACE (App Connect Enterprise), IBM MQ, Axway API Gateway
+AI & Productivity  → AI-driven development, MCP (Model Context Protocol), Cursor, Claude Code
+Cost Optimization  → Cloud & DB FinOps, resource utilization efficiency, right-sizing
+Databases & Store  → PostgreSQL, IBM DB2, Redis, Firestore (indexing, query & schema tuning)
+Full-Stack Core    → Go, TypeScript, Next.js, React, Node.js, Python
+Enterprise Infra   → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux, CI/CD
 ```
 
 <br/>
@@ -49,6 +50,14 @@ Databases & Store → PostgreSQL, IBM DB2, Redis, Firebase / Firestore
   <img src="https://img.shields.io/badge/Red%20Hat%20OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
   <img src="https://img.shields.io/badge/IBM%20DB2-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM DB2" />
+  <img src="https://img.shields.io/badge/Database_%26_Infra-Cost_Optimization-238636?style=flat-square&logo=speedtest&logoColor=white" alt="Cost Optimization" />
+</p>
+
+<p align="center">
+  <img src="docs/assets/skills/mcp.svg" width="42" height="42" alt="MCP" title="Model Context Protocol (MCP)" />&nbsp;&nbsp;
+  <img src="docs/assets/skills/cursor.svg" width="42" height="42" alt="Cursor" title="Cursor" />&nbsp;&nbsp;
+  <img src="docs/assets/skills/claude-code.svg" width="42" height="42" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;
+  <img src="docs/assets/skills/codex.svg" width="42" height="42" alt="Codex" title="Codex" />
 </p>
 
 </div>
@@ -56,5 +65,5 @@ Databases & Store → PostgreSQL, IBM DB2, Redis, Firebase / Firestore
 <br/>
 
 <div align="center">
-  <sub>Founder @ asesme.com · Senior Software Engineer · Banking Systems & Enterprise Middleware</sub>
+  <sub>Founder @ asesme.com · Senior Software Engineer · Banking Middleware · AI-Accelerated & Cost-Optimized Systems</sub>
 </div>
