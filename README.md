@@ -3,7 +3,7 @@
   # Hasan Romadon
 
   <a href="https://asesme.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Senior+Software+Engineer+%C2%B7+Full-Stack+Developer;Scalable+Enterprise+Systems+%C2%B7+Middleware+Architecture;Go+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Microservices;Red+Hat+OpenShift+%C2%B7+Kubernetes+%C2%B7+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Senior+Software+Engineer+%C2%B7+Enterprise+Middleware+Architect;Banking+Systems+%C2%B7+Cash+Management+System+(CMS);IBM+ACE+%C2%B7+IBM+MQ+%C2%B7+Axway+API+Gateway+(Open+API);Go+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Microservices;Red+Hat+OpenShift+%C2%B7+High-Throughput+Financial+APIs" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -19,11 +19,12 @@
 ## What I work in
 
 ```
-Full-Stack       → Go, TypeScript, Next.js, React, Node.js, Python
-Enterprise & Bus → IBM ACE, Axway API Gateway, Microservices, Financial Protocols
-Databases        → PostgreSQL, Redis, IBM DB2, Firebase / Firestore
-Cloud & DevOps   → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux, CI/CD
-Architecture     → Distributed Systems, Enterprise Middleware, High-Throughput APIs
+Banking & FinTech → Corporate Cash Management System (CMS), Open API / Financial Standards
+Middleware & ESB  → IBM ACE (App Connect Enterprise), IBM MQ, Axway API Gateway
+API Architecture  → Open API, Microservices, Enterprise Service Bus, Secure Gateways
+Full-Stack        → Go, TypeScript, Next.js, React, Node.js, Python
+Enterprise Infra  → Red Hat OpenShift, Kubernetes, Docker, Podman, Linux, CI/CD
+Databases & Store → PostgreSQL, IBM DB2, Redis, Firebase / Firestore
 ```
 
 <br/>
@@ -37,11 +38,15 @@ Architecture     → Distributed Systems, Enterprise Middleware, High-Throughput
 ![Data & Infrastructure](https://skillicons.dev/icons?i=postgres,redis,firebase,kubernetes,docker,redhat,linux,git,github,postman&perline=10)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IBM%20ACE-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM ACE" />
+  <img src="https://img.shields.io/badge/Banking_Systems-Cash_Management_(CMS)-1F883D?style=flat-square&logo=cashapp&logoColor=white" alt="Cash Management System" />
+  <img src="https://img.shields.io/badge/IBM%20ACE-App%20Connect%20Enterprise-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM ACE" />
+  <img src="https://img.shields.io/badge/IBM%20MQ-Message%20Queuing-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM MQ" />
+  <img src="https://img.shields.io/badge/Axway%20API%20Gateway-Open%20API-002D62?style=flat-square&logo=fastapi&logoColor=white" alt="Axway Open API" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Red%20Hat%20OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
   <img src="https://img.shields.io/badge/IBM%20DB2-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM DB2" />
-  <img src="https://img.shields.io/badge/Axway%20API-002D62?style=flat-square&logo=fastapi&logoColor=white" alt="Axway" />
 </p>
 
 </div>
@@ -49,5 +54,5 @@ Architecture     → Distributed Systems, Enterprise Middleware, High-Throughput
 <br/>
 
 <div align="center">
-  <sub>Senior Software Engineer · Scalable Systems & Enterprise Architecture</sub>
+  <sub>Senior Software Engineer · Banking & Cash Management Systems · Enterprise Middleware & Open API</sub>
 </div>
